@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <sqlite_cpp/sample_library.hpp>
 
 int factorial(int input) noexcept
 {
